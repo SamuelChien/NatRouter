@@ -1,0 +1,1 @@
+This project simulated a router that has the option of similating a NAT device. It has a full functionality of hiding multiple clients under one IP address. This project demonstrates 3 way TCP handshakes and concurrent connection while also support all TCP, UDP, ICMP packets. 
